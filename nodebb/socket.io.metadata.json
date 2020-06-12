@@ -1,0 +1,1 @@
+{"options":{"capped":true,"size":{"$numberInt":"5242880"}},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"nodebb.socket.io"}],"uuid":"7f194ab23a8943ab809008c6ba8a65c5"}
